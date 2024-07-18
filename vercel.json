@@ -14,12 +14,8 @@
       "dest": "public/images/$1"
     },
     {
-      "src": "/contact",
+      "src": "/index.php",
       "dest": "/api/contact.php"
-    },
-    {
-      "source": "/api/index.php",
-      "destination": "/api/contact.php"
     }
   ]
 }
