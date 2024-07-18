@@ -1,3 +1,7 @@
+  <?php
+require __DIR__ . "./contact.php";
+  ?>
+  
   <!DOCTYPE html>
   <html>
   <head>
