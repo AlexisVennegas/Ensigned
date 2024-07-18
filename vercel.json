@@ -18,8 +18,8 @@
       "dest": "/api/contact.php"
     },
     {
-      "src": "/(.*)",
-      "dest": "/api/index.php"
+      "source": "/api/index.php",
+      "destination": "/api/contact.php"
     }
   ]
 }
