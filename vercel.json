@@ -14,7 +14,7 @@
       "dest": "public/images/$1"
     },
     {
-      "src": "/contact.php",
+      "src": "/contact",
       "dest": "/api/contact.php"
     },
     {
@@ -23,3 +23,4 @@
     }
   ]
 }
+
