@@ -1,4 +1,9 @@
-  <!DOCTYPE html>
+
+<?php
+
+echo("hola buenos dias mundo")
+?>
+<!DOCTYPE html>
   <html>
   <head>
     <!-- Basic -->
@@ -60,7 +65,15 @@
                   <a class="nav-link" href="network.html"> Network </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="./api/contacto.php"> Contact </a>
+                  <p id="contactLink" class="nav-link" href="./api/contacto.php"> Contact </p>
+                  <script>
+                document.getElementById('contactLink').addEventListener('click', function(event) {
+                  event.preventDefault(); // Prevenir el comportamiento predeterminado de navegación
+                  
+                  // Redirigir a contact.php
+                  window.location.href = './contact.php';
+                });
+              </script>
                 </li>
               </ul>
               <div class="user_option">
