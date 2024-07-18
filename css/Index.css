@@ -57,7 +57,7 @@ header {
 }
 @keyframes adjust-header {
     to {
-        backdrop-filter: blur(160px);;
+        backdrop-filter: blur(10px);;
         background-color: rgba(0, 0, 0, 0.644);
     }
 }

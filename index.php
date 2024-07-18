@@ -60,7 +60,7 @@
                   <a class="nav-link" href="network.html"> Network </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="./contact.php"> Contact </a>
+                  <a class="nav-link" href="./api/contacto.php"> Contact </a>
                 </li>
               </ul>
               <div class="user_option">
