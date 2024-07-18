@@ -1,6 +1,6 @@
 <?php
 
 
-// equire __DIR__ . '../index.php';
-phpinfo();
+require __DIR__ . '../../index.php';
+// phpinfo();
 
