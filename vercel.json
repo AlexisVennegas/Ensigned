@@ -1,8 +1,7 @@
 {
   "functions": {
-    "api/*.php": {
-      "runtime": "vercel-php@0.6.0"
-    }
+    "api/*.php": {"runtime": "vercel-php@0.6.0"},
+    "api/contact.php": {"runtime": "vercel-php@0.6.0"}
   },
   "routes": [
     {
@@ -16,7 +15,10 @@
     {
       "src": "/(.*)",
       "dest": "/api/index.php"
-    } 
-
+    } ,
+    {
+      "src": "./contact.php",
+      "dest": "/api/contact.php"
+    }
   ]
 }
