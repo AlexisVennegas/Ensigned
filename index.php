@@ -134,7 +134,7 @@
                           we redesign your old tattoos like our logo
                         </p>
                         <div class="">
-                          <a href="">
+                          <a href="./do.html  ">
                             Check our designs
                           </a>
                         </div>
@@ -158,7 +158,7 @@
                         The Calatog of designs is available for you to choose the one that you like the most
                         </p>
                         <div class="">
-                          <a href="">
+                          <a href="./do.html">
                             Tattos Catalog
                           </a>
                         </div>
@@ -180,7 +180,7 @@
                           We can help you to turn your idea into a tattoo, just contact us and we will make it happen
                         </p>
                         <div class="">
-                          <a href="">
+                          <a href="./contact.php">
                             Contact Us
                           </a>
                         </div>
@@ -295,7 +295,7 @@
                 We are a team of professional tattoo artists that are dedicated to make your ideas come true, we have a lot of experience in the field and we are always looking for new challenges to make our clients happy. The vision of our company is to be the best tattoo studio in the world, and we are working hard to make it happen.
               </p>
               <div>
-                <a href="">
+                <a href="./about.html">
                   Read More
                 </a>
               </div>
