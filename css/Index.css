@@ -52,13 +52,13 @@ header {
     /* position: relative; */
 }
 
-.video > video {
+.video > video {    
     width: 100%;
 }
 @keyframes adjust-header {
     to {
         backdrop-filter: blur(160px);;
-        background-color: rgba(0, 0, 0, 0.644)  ;
+        background-color: rgba(0, 0, 0, 0.644);
     }
 }
 
