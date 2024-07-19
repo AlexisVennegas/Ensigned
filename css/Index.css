@@ -4,7 +4,9 @@
     font-weight: 400;
     font-style: normal;
   }
-  
+ 
+		
+	
 .title-header {
     /* font family previamente importada */
     font-family: "Cedarville Cursive", cursive;
@@ -21,7 +23,7 @@
     font-size: 1.5rem;
 }
 header {
-    
+
     position: sticky;
     top: 0px;
     animation: adjust-header linear both;
@@ -52,13 +54,13 @@ header {
     /* position: relative; */
 }
 
-.video > video {    
+.video > video {
     width: 100%;
 }
 @keyframes adjust-header {
     to {
-        backdrop-filter: blur(10px);;
-        background-color: rgba(0, 0, 0, 0.644);
+        backdrop-filter: blur(160px);;
+        background-color: transparent;
     }
 }
 

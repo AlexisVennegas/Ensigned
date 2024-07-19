@@ -995,8 +995,7 @@ a:focus {
   right: 5%;
   opacity: 0;
   transition: all 0.5s ease-in-out;
-  top: 50%;
-  transform: translateY(-50%);
+    top: 14%;
 }
 .img_cont:hover .img_text{
   opacity: 1;
